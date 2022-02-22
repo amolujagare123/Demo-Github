@@ -3,6 +3,8 @@ public class Addition {
     int a;
     int b;
 
+    int addition;
+
     void addition()
     {
         int c;
